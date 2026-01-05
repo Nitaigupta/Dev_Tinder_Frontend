@@ -39,7 +39,6 @@ JWT Authentication
 
 bcrypt.js
 
-📁 Project Structure
 DevTinder/
 │
 ├── frontend/
@@ -62,6 +61,7 @@ DevTinder/
 │   └── package.json
 │
 └── README.md
+
 
 🎨 Frontend (Client)
 ✨ Features
